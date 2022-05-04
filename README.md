@@ -18,6 +18,8 @@
   </h1>
 </div>
 
+---
+
 &nbsp; About me
 ===
 
@@ -30,8 +32,6 @@
 💡 As a part of my learning process, I prefer solving algorithmic tasks on Leetcode and Codesignal, reading books and articles about IT.
 
 📔 I'd like to start an IT blog in near future with some note for beginners in programming.
-
----
 
 &nbsp; Languages and Tools
 ===
@@ -54,4 +54,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"  title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+&nbsp; GitHub Statistics
+===
+
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ldy0uth&show_icons=true&theme=onedark)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=w1ldy0uth&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ldy0uth&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
