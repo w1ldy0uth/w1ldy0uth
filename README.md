@@ -20,9 +20,9 @@
 &nbsp; About me
 ===
 
-🧑‍🎓 My name is Ivan Shurygin and I am a Backend Developer. I'm currently studying at VSU at the faculty of Applied Math, Computer Science and Mechanics.
+🧑‍🎓 My name is Ivan Shurygin. I am a backend developer. I'm currently studying at VSU at the faculty of Applied Math, Computer Science and Mechanics.
 
-💻 Since I focus on a backend web development, my main interests in programming at the moment are Java SE + Spring + Hibernate and Python + Flask.
+💻 Since I focus on a backend web development, my main interests in programming at the moment are Java SE + Spring + Hibernate/Python + Flask/Node.js + Express.
 
 🖥️ However, I'm also interested in many more ways of programming. I'd like to learn some DevOps skills in near future and become more knowledgeable in web applications architecture and database building.
 
