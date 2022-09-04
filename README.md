@@ -11,11 +11,6 @@
 </div>
 
 ---
-<div id="hello" align="center">
-  <h1>
-      Hello there!
-  </h1>
-</div>
  
 &nbsp; About me
 ===
