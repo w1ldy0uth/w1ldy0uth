@@ -9,8 +9,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=w1ldy0uth&style=flat-square&color=blue" alt=""/>
 </div>
-
----
  
 &nbsp; About me
 ===
