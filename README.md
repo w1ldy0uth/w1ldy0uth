@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <div id="badges">
     <a href="https://www.linkedin.com/in/ivan-shurygin/">
       <img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
