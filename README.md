@@ -14,7 +14,9 @@
 ===
 
 Name: Ivan 'w1ldy0uth' Shurygin
+
 University: Bachelor of Applied Math and Computer Science at VSU, Russia
+
 Work: Junior Backend Developer at Relex Russia
 
 &nbsp; Languages and Tools
