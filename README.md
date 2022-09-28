@@ -1,6 +1,3 @@
-About me
-===
-
 <div id="badges" align="center">
   <div id="links">
     <a href="https://www.linkedin.com/in/ivan-shurygin/">
