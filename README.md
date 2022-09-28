@@ -13,15 +13,9 @@
 &nbsp; About me
 ===
 
-🧑‍🎓 My name is Ivan Shurygin. I am a backend developer. I'm currently working as a backend developer at RELEX (Russia) and studying at VSU at the faculty of Applied Math, Computer Science and Mechanics.
-
-💻 Since I focus on a backend web development, my main interests in programming at the moment are Java SE + Spring + Hibernate/Python + Flask/Node.js + Express.
-
-🖥️ However, I'm also interested in many more ways of programming. I'd like to learn some DevOps skills in near future and become more knowledgeable in web applications architecture and database building.
-
-💡 As a part of my learning process, I prefer solving algorithmic tasks on Leetcode and Codesignal, reading books and articles about IT.
-
-📔 I'd like to start an IT blog in near future with some note for beginners in programming.
+Name: Ivan 'w1ldy0uth' Shurygin
+University: Bachelor of Applied Math and Computer Science at VSU, Russia
+Work: Junior Backend Developer at Relex Russia
 
 &nbsp; Languages and Tools
 ===
