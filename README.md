@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=w1ldy0uth&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="aboutme" align="center">
+<div id="aboutme" align="center" font-size=20>
   Ivan 'w1ldy0uth' Shurygin
   
   Junior Backend Developer at Relex Russia
@@ -25,7 +25,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flaks" alt="Flask" width="40" height="40"/>
