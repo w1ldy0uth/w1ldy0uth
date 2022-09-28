@@ -12,9 +12,11 @@
  
 <div id="aboutme" align="center">
   Ivan 'w1ldy0uth' Shurygin
+  <br>
   
   Junior Backend Developer at Relex Russia
-
+  <br>
+  
   Bachelor of Applied Math and Computer Science at VSU, Russia
 </div>
 
