@@ -1,6 +1,7 @@
 &nbsp; About me
 ===
-<div id="badges" align="right">
+
+<div id="badges" align="center">
   <div id="links">
     <a href="https://www.linkedin.com/in/ivan-shurygin/">
       <img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,11 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=w1ldy0uth&style=flat-square&color=blue" alt=""/>
 </div>
 
-Name: Ivan 'w1ldy0uth' Shurygin
+<div id="aboutme" align="center">
+  Name: Ivan 'w1ldy0uth' Shurygin
 
-University: Bachelor of Applied Math and Computer Science at VSU, Russia
+  University: Bachelor of Applied Math and Computer Science at VSU, Russia
 
-Work: Junior Backend Developer at Relex Russia
+  Job: Junior Backend Developer at Relex Russia
+</div>
 
 &nbsp; Languages and Tools
 ===
