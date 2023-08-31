@@ -79,9 +79,8 @@ Tech stack
 
 <hr>
 
-<div align="center">
+<div id="statistics" align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ldy0uth&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=w1ldy0uth&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
