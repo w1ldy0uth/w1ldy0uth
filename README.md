@@ -12,6 +12,7 @@ Tech stack
 ===
 
 <div>
+  Main Java stack:
   <div id="java">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
@@ -22,6 +23,7 @@ Tech stack
     <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" title="Mockito" alt="Mockito" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" title="Testcontainers" alt="Testcontainers" width="40" height="40"/>
   </div>
+  Main JS stack (frontend + backend):
   <div id="js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -34,6 +36,7 @@ Tech stack
     <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" title="Vue.js" alt="Vue.js" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="40" height="40"/>
   </div>
+  Main Python stack (backend):
   <div id="python">
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" title="Flask" alt="Flask" width="40" height="40"/>
@@ -41,18 +44,21 @@ Tech stack
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
   </div>
+  Languages ​​I'm interested in:
   <div id="other_languages">
     <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" title="Rust" alt="Rust" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" title="Go" alt="Go" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" title="C++" alt="C++" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="40" height="40"/>
   </div>
+  Database stack:
   <div id="databases">
     <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" title="MariaDB" alt="MariaDB" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" title="Redis" alt="Redis" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   </div>
+  DevOps tools:
   <div id="dev_ops">
     <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" title="CI/CD" alt="CI/CD" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>
@@ -63,6 +69,7 @@ Tech stack
     <img src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" title="Prometheus" alt="Prometheus" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" title="Grafana" alt="Grafana" width="40" height="40"/>
   </div>
+  Daily tools:
   <div id="tools">
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub" alt="GitHub" width="40" height="40"/>
