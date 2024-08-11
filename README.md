@@ -1,5 +1,5 @@
 <div id="aboutme" align="center">
-  Ivan 'w1ldy0uth' Shurygin<br>Backend Developer at RELEX<br>Bachelor of Computer Science at Voronezh State University, RU<br>Open-source supporter, programming enthusiast 
+  Ivan 'w1ldy0uth' Shurygin<br>Backend Developer at RELEX<br>Open-source supporter, programming enthusiast 
 </div>
 <br>
 <div id="links" align="center">
