@@ -62,8 +62,8 @@ Passionate about clean architecture, automation, and understanding *why* things 
 
 | Project | Description | Tech |
 |---|---|---|
+| [**sondare**](https://github.com/w1ldy0uth/sondare) | Network audit CLI tool powered by Scapy | `Python` `Scapy` `Networking` |
 | [**meetnotes**](https://github.com/w1ldy0uth/meetnotes) | Local team meeting transcribing and summarizing tool | `Python` `LLM` |
-| [**netScan**](https://github.com/w1ldy0uth/netScan) | Network scanner built on Scapy | `Python` `Scapy` `Networking` |
 | [**python-underlying-concepts**](https://github.com/w1ldy0uth/python-underlying-concepts) | Scripts that demystify Python's inner workings | `Python` `CPython` |
 
 ---
