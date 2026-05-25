@@ -72,7 +72,7 @@ Passionate about clean architecture, automation, and understanding *why* things 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ldy0uth&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=w1ldy0uth&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=w1ldy0uth&theme=github-dark-blue&border=30363D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
