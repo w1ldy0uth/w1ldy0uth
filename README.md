@@ -49,12 +49,11 @@ Passionate about clean architecture, automation, and understanding *why* things 
 
 **Interests**
 
-- 🔍 Network security & scanning tools
 - 🌐 Complex web apps & high-load systems
+- 🖥️ Open-source desktop applications
 - 🏗️ System design & clean architecture
 - 🛠️ Automation of everything automatable
 - ⚙️ DevOps pipelines & infrastructure as code
-- 🖥️ Open-source desktop applications
 
 ---
 
