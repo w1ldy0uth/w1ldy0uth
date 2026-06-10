@@ -86,11 +86,3 @@ Passionate about clean architecture, automation, and understanding *why* things 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-shurygin/)
 
 </div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=w1ldy0uth&color=58a6ff&style=flat-square&label=profile+views)
-
-</div>
