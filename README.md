@@ -100,6 +100,8 @@ Passionate about clean architecture, automation, and understanding *why* things 
 ![Bruno](https://img.shields.io/badge/Bruno-F4A118?style=flat-square&logo=bruno&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![nmap](https://img.shields.io/badge/nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **IDEs**
 
