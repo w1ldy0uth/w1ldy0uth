@@ -26,6 +26,14 @@ role:     Full-Stack Developer · DevOps · Software Architect
 I build things that work. Sometimes they even work on the first try.  
 Passionate about clean architecture, automation, and understanding *why* things tick under the hood.
 
+**Interests**
+
+- 🌐 Complex web apps & high-load systems
+- 🖥️ Open-source desktop applications
+- 🏗️ System design & clean architecture
+- 🛠️ Automation of everything automatable
+- ⚙️ DevOps pipelines & infrastructure as code
+
 ---
 
 ## `> cat skills.txt`
@@ -126,14 +134,6 @@ Passionate about clean architecture, automation, and understanding *why* things 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=white)
-
-**Interests**
-
-- 🌐 Complex web apps & high-load systems
-- 🖥️ Open-source desktop applications
-- 🏗️ System design & clean architecture
-- 🛠️ Automation of everything automatable
-- ⚙️ DevOps pipelines & infrastructure as code
 
 ---
 
