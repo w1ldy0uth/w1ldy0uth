@@ -176,6 +176,8 @@ Passionate about clean architecture, automation, and understanding *why* things 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=w1ldy0uth&theme=github-dark-blue&border=30363D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/w1ldy0uth?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/w1ldy0uth)
+
 </div>
 
 ---
